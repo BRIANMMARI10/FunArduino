@@ -11,3 +11,5 @@ well as a GPS module. Aim is to practice serial communications, wiring and makin
 4) ARDUINO MEGA2560 BOARD
 
 ## Link to report
+https://github.com/BRIANMMARI10/FunArduino/blob/main/FINAL_LAB_REPORT_compressed.pdf
+
